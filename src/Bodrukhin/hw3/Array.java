@@ -1,4 +1,9 @@
-package hw3;
+package Bodrukhin.hw3;
+/*
+ * Массив: заполнение, сумма, положительные числаб сортировка пузырьком
+ *@Author Bodrukhin Yevhen
+ * version 1.0.0
+ */
 
 import java.util.Scanner;
 
