@@ -1,4 +1,9 @@
-package hw3;
+package Bodrukhin.hw3;
+/*
+ * Игра бинго : поиск пользование загаданное прогораммой число
+ *@Author Bodrukhin Yevhen
+ * version 1.0.0
+ */
 
 import java.util.Scanner;
 
